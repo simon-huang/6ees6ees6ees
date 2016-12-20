@@ -4,7 +4,7 @@ class Grub {
     this.color = 'pink'
     this.food = 'jelly'
   }
-  static eat () {
+  eat () {
     return 'Mmmmmmmmm jelly'
   }
 };
